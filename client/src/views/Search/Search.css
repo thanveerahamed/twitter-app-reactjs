@@ -1,0 +1,24 @@
+.card {
+  max-width: 35rem !important;
+  margin-bottom: 10px;
+}
+
+.media {
+  
+  padding-top: "56.25%";
+}
+
+.avatar {
+  background-color: red;
+}
+
+.body-content {
+      /* align-items: center; */
+    /* align-content: center; */
+    margin-left: 10rem;
+    margin-top: 20px;
+}
+
+.button{
+  margin-top: 25px !important;
+}

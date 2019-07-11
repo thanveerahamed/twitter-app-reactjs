@@ -1,0 +1,20 @@
+{
+  "name": "twitter-server",
+  "version": "1.0.0",
+  "description": "GraphQL Sever",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thanveer Ahamed",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "graphql-yoga": "^1.18.0",
+    "node-fetch": "^2.6.0",
+    "twit": "^2.2.11"
+  }
+}
